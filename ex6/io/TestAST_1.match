@@ -1,0 +1,1 @@
+m valueDecl(hasType(cxxRecordDecl(hasName("shared_ptr"))))

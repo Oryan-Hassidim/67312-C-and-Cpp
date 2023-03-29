@@ -1,0 +1,266 @@
+Lenovo IdeaPad: 89
+Lenovo Legion: 214
+Lenovo ThinkPad: 135
+Lenovo ThinkBook: 539
+Lenovo Yoga: 139
+HP Elitebook: 5
+HP Envy: 272
+HP Omen: 158
+HP Pavilion: 42
+HP ZBook: 523
+HP Spectre: 344
+HP Victus: 21
+HP ProBook: 169
+HP OmniBook: 169
+Dell Alienware: 444
+Dell G Series: 542
+Dell Inspiron: 85
+Dell Latitude: 7
+Dell Precision: 176
+Dell Vostro: 448
+Dell XPS: 72
+Apple MacBook: 537
+Apple MacBook Air: 202
+Apple MacBook Pro: 64
+Acer Aspire: 4
+Acer Enduro: 590
+Acer Extensa: 386
+Acer Ferrari: 438
+Acer Nitro: 84
+Acer Predator: 519
+Acer Swift: 570
+Acer Spin: 376
+Acer Switch: 168
+Acer TravelMate: 191
+Asus ProArt: 160
+Asus Zenbook: 516
+Asus Aspire: 395
+Asus Vivobook: 180
+Asus Chromebook: 134
+Asus ROG: 471
+Asus TUF: 570
+Asus ZEPHYRUS: 156
+Asus Experbook: 480
+Asus Transformer: 247
+Asus Pro: 303
+AGB Supreme Technology Octev Series: 333
+AGB Supreme Technology Tiara: 282
+AGB Supreme Technology Orion: 235
+Alienware X15: 395
+Alienware X16: 536
+Alienware M15: 201
+Alienware Area-51m R2: 113
+Alienware 13: 435
+Alienware 14: 341
+Alienware 15: 278
+Alienware 17: 586
+Alienware 18: 258
+Avell : 150
+Axioo MyBook: 449
+Axioo Slimbook: 495
+Axioo Chromebook: 345
+Bmax MaxBook: 352
+BOXX Technologies GoBOXX: 235
+Casper Nirvana: 201
+Casper Excalibur: 154
+CHUWI Herobook: 513
+CHUWI Corebook: 344
+Corsair Voyager: 234
+Clevo NP70 series: 259
+Clevo P870DM3-G: 120
+Clevo X170KM-G: 59
+Clevo X7200: 550
+CyberPowerPC Tracer V Series: 240
+CyberPowerPC Tracer IV: 26
+CyberPowerPC Tracer III: 165
+Digital Storm Avon 15: 448
+Digital Storm Banshee 17.3: 352
+Durabook Z141: 416
+Durabook S141: 184
+Durabook S15AB: 1
+Durabook R8300: 594
+Dynabook Port?g?: 193
+Dynabook Tecra: 124
+Dynabook Satellite/Satellite Pro: 149
+Dynabook E Series: 234
+Eluktronics Prometheus XVII: 584
+Eluktronics MAG-15: 49
+Eluktronics MAG-15R: 93
+Eluktronics MECH-15 G3: 240
+Eluktronics MAX-15: 519
+Eluktronics MAX-17: 120
+Eurocom Sky: 543
+Eurocom Tornado: 599
+Eurocom Nightsky: 77
+Eurocom Commander: 53
+Eurocom Monster: 583
+Evoo EG Series: 472
+Evoo EV-C Series: 182
+Evoo EVC Series: 270
+Evoo TEV Series: 173
+Falcon Northwest DRX: 365
+Falcon Northwest TLX: 337
+Framework Computer Framework Laptop: 295
+Fujitsu Celsius: 429
+Fujitsu LifeBook: 85
+Gateway 2-in-1 Convertible: 46
+Gateway Ultra Slim: 115
+Geo GeoBook: 292
+Star Labs StarLite: 55
+Star Labs StarBook: 313
+Getac B360: 479
+Getac S410: 141
+Getac F110: 296
+Getac UX10: 513
+Getac V110: 356
+Gigabyte Aorus: 589
+Gigabyte Aero: 584
+Gigabyte Gaming: 73
+Google Chromebook Pixel: 117
+Google Pixelbook: 465
+Google Pixelbook Go: 40
+Honor MagicBook: 185
+Huawei MateBook: 422
+Hyundai Technology Flip: 117
+Hyundai Technology book: 121
+Hyundai Technology flipnote: 198
+Hyundai Technology thinnote: 350
+Illegear Art? Series: 318
+Illegear Ionic Series: 45
+Illegear Laguna Series: 103
+Illegear Onyx Series: 302
+Illegear Prodigy and Rogue Series: 34
+Illegear Selenite Series: 494
+Lava International Twinpad: 373
+Lava International Helium Series: 236
+LG Gram: 455
+LG Xnote: 75
+Machenike Machcreator: 321
+Machenike T58: 151
+Maguay MyWay: 542
+Maguay GamePower: 204
+Maguay OfficePower: 19
+Maguay ExpertStation: 470
+Maguay PowerStation: 73
+Maguay Mini-Server: 438
+Medion Akoya: 4
+Metabox Flo: 345
+Metabox Edge: 229
+Metabox Edge-Pro: 575
+Metabox Aer: 576
+Metabox Alpha-X: 201
+Metabox Alpha-S: 226
+Metabox Alpha-XR: 232
+Metabox Prime-S: 18
+Metabox Prime-Ai: 124
+Metabox Prime-X: 593
+Metabox Pro: 181
+Micro-Star International (MSi) Megabook: 219
+Micro-Star International (MSi) Modern: 268
+Micro-Star International (MSi) GT: 133
+Micro-Star International (MSi) GS: 308
+Micro-Star International (MSi) GF: 244
+Micro-Star International (MSi) GE: 13
+Micro-Star International (MSi) GP: 16
+Micro-Star International (MSi) GL: 365
+Micro-Star International (MSi) Wind: 96
+Microsoft Microsoft Surface: 109
+Microtech CoreBook: 219
+Microtech e-book Lite: 155
+Monster Notebook[tr] Abra: 574
+Monster Notebook[tr] Tulpar: 393
+Monster Notebook[tr] Huma: 265
+Monster Notebook[tr] Semruk: 134
+Monster Notebook[tr] Markut: 262
+Multilaser Ultra: 143
+NEC LaVie: 3
+NEC ProSpeed: 247
+NEC UltraLite: 104
+NEC Versa: 303
+NEC VersaPro: 538
+njoy (brand by Dai-Tech[ro]) Aerial: 72
+njoy (brand by Dai-Tech[ro]) Ediam: 142
+Nokia PureBook: 72
+Obsidian-PC PC50: 8
+Optima OptimBook: 553
+Optima OptimBook Pro: 399
+Optima NoteBook: 354
+Optima NoteBook Pro: 18
+Optima MECIPT: 274
+Optima MECIPT Pro: 562
+Optima DACICC: 551
+Optima DACICC Pro: 170
+Origin PC EVO15-S: 140
+Origin PC EVO17-S: 404
+Origin PC EVO17-X: 365
+Origin PC NT-15i: 530
+Origin PC NT-15: 273
+Origin PC NT-17: 435
+OverPowered Gaming Laptop 15: 287
+OverPowered Gaming Laptop 15+: 54
+OverPowered Gaming Laptop 17+: 174
+Panasonic Toughbook: 229
+Panasonic Toughpad: 262
+Panasonic Let's Note: 129
+Packard Bell Statesman: 437
+Positivo : 528
+Purism Librem: 486
+Razer Blade: 442
+Razer Book: 177
+Realme Realmebook: 440
+Sager Notebook computers (exports Clevo) NP Series: 598
+Samsung Ativ: 178
+Samsung Sens: 288
+Samsung Galaxy Book: 103
+Slimbook Essential 15: 347
+Slimbook Pro X: 365
+Slimbook KDE Slimbook: 508
+Shenzhen Jumper Technology EZpad go: 361
+Shenzhen Jumper Technology EZpad: 229
+Shenzhen Jumper Technology EZBook: 447
+System76 Galago Pro: 417
+System76 Oryx Pro: 278
+System76 Pangolin: 273
+System76 Lemur Pro: 238
+System76 Gazelle: 254
+System76 Darter Pro: 242
+System76 Kudu Pro: 216
+System76 Serval WS: 453
+System76 Bonobo WS: 363
+System76 Adder WS: 25
+UMAX VisionBook: 366
+VAIO Z series: 137
+VAIO F series: 116
+VAIO S series: 202
+VAIO SX series: 285
+Vastking KingPad: 560
+Vastking Kingbook: 528
+Velocity Micro Signature 17: 469
+Velocity Micro Raptor S77: 582
+Velocity Micro Raptor MX70: 37
+VIT P1420: 39
+VIT P3310-01: 70
+VIT P3310-02: 173
+Walmart Motile: 316
+Walton Prelude: 101
+Walton Passion: 491
+Walton Tamarind: 78
+Walton Karonda: 16
+Walton Waxjambu: 88
+Xiaomi Mi NoteBook: 29
+Xiaomi RedmiBook: 141
+XMG (Schenker Technologies) Apex: 85
+XMG (Schenker Technologies) Core: 253
+XMG (Schenker Technologies) Dj 15: 26
+XMG (Schenker Technologies) Focus: 106
+XMG (Schenker Technologies) Neo Series: 107
+XMG (Schenker Technologies) Pro Series: 55
+TUXEDO Computers Aura 15 - Gen 1: 4
+TUXEDO Computers Book XP14: 244
+TUXEDO Computers Polaris 17: 574
+Xolo : 62
+Zeuslap : 201
+Zyrex Sky: 288
+Zyrex Cruiser: 398
+Zyrex Confidante: 56
+Zyrex Chromebook: 280

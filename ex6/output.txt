@@ -1,0 +1,70 @@
+A (1999)
+
+StarWars (1977)
+ForestGump (1994)
+Titanic (1997)
+Twilight (2008)
+Batman (2022)
+
+invalid feature
+invalid feature
+Invalid rate
+Invalid rate
+name: Michael
+StarWars (1977)
+ForestGump (1994)
+Titanic (1997)
+B (2000)
+Twilight (2008)
+Batman (2022)
+
+
+B (2000)
+
+B (2000)
+
+name: Sofia
+StarWars (1977)
+ForestGump (1994)
+Titanic (1997)
+B (2000)
+Twilight (2008)
+Batman (2022)
+
+
+name: Michael
+StarWars (1977)
+ForestGump (1994)
+Titanic (1997)
+B (2000)
+Twilight (2008)
+Batman (2022)
+
+
+name: Nicole
+StarWars (1977)
+ForestGump (1994)
+Titanic (1997)
+B (2000)
+Twilight (2008)
+Batman (2022)
+
+
+name: Arik
+StarWars (1977)
+ForestGump (1994)
+Titanic (1997)
+B (2000)
+Twilight (2008)
+Batman (2022)
+
+
+name: Sofia
+StarWars (1977)
+ForestGump (1994)
+Titanic (1997)
+B (2000)
+Twilight (2008)
+Batman (2022)
+
+

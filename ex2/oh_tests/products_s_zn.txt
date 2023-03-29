@@ -1,0 +1,20 @@
+Dell Alienware: 444
+Lenovo Yoga: 139
+Apple MacBook Air: 202
+Apple MacBook: 537
+HP OmniBook: 169
+HP Elitebook: 5
+Apple MacBook Pro: 64
+Dell Vostro: -16
+HP ZBook: 523
+Acer Predator: 519
+Lenovo IdeaPad: 89
+Dell XPS: 72
+Dell Inspiron: 85
+Dell G Series: 542
+Dell Precision: 0
+HP Pavilion: 42
+Acer Swift: 570
+Dell Latitude: 7
+Asus Transformer: 247
+Asus Pro: 303
